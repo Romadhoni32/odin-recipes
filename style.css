@@ -1,0 +1,12 @@
+*{
+    font-family: "helvetica", "Verdana", sans-serif;
+    background-color: #DB4439;
+    color: #F1E8DB;
+    text-decoration: none;
+}
+img{
+    width: 80%
+}
+a:hover{
+    color: rgb(235, 255, 155);
+}
